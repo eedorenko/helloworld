@@ -9,7 +9,9 @@ public class HelloWorld
     super();
   }
 
-  public void sayHello()
+
+//A very simple method
+ public void sayHello()
   {
     System.out.println("Hello World!!!");
   }
