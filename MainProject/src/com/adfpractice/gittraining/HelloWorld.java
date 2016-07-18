@@ -12,12 +12,15 @@ public class HelloWorld
 
 
 
+ public void sayBye()
+  {
+    System.out.println("Bye Bye!!!");
+  }
 
-    
+      
     
  //A very simple method
  //The forgotten line
-
 
  public void sayHello()
   {
