@@ -10,6 +10,10 @@ public class HelloWorld
   }
 
 
+ public void sayBye()
+  {
+    System.out.println("Bye Bye!!!");
+  }
 
 
  //Add some comment
