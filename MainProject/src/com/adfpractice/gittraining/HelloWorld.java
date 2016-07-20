@@ -11,17 +11,6 @@ public class HelloWorld
 
 
 
-
- public void sayBye()
-  {
-    System.out.println("Bye Bye!!!");
-  }
-
-      
-    
- //A very simple method
- //KASDBJKABDJKAWDBKJQ
-
  public void sayHello()
   {
     System.out.println("Hello World!!!");
